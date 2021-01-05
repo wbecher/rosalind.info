@@ -10,7 +10,7 @@ def complement_dna(dna):
 
     Parameters
     ----------
-    dna
+    dna: str
 
     Returns
     -------

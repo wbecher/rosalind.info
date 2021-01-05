@@ -7,7 +7,7 @@ def dna_to_rna(dna):
 
     Parameters
     ----------
-    String dna
+    dna: str
 
     Returns
     -------

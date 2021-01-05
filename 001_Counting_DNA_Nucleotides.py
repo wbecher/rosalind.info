@@ -7,7 +7,7 @@ def count_dna_nucleotides(dna):
 
     Parameters
     ----------
-    dna
+    dna: str
 
     Returns
     -------
